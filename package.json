@@ -1,9 +1,9 @@
 {
   "name": "gitbook-plugin-summary-tree-number",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
-  "englines": {
+  "engines": {
     "gitbook": "*"
   },
   "scripts": {
